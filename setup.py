@@ -7,10 +7,11 @@ except ImportError:
 
 setup(
     name='nose-deadline',
-    version='0.1.0',
+    version='0.1.1',
     description='Enforced timelimits for nosetests',
     author='Manuel Schoelling',
     author_email='manuel.schoelling@gmx.de',
+    url='https://github.com/manuels/nose-deadline',
     install_requires=['nose>=1.3.0'],
     py_modules=['nose_deadline'],
     entry_points={
