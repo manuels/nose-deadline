@@ -9,7 +9,7 @@ setup(
     name='nose-timelimit',
     version='0.1.0',
     description='Enforced timelimits for nosetests',
-    author='Manuel Schölling',
+    author='Manuel Schoelling',
     author_email='manuel.schoelling@gmx.de',
     install_requires=['nose>=1.3.0'],
     py_modules=['nose_timelimit'],
